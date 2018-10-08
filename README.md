@@ -10,7 +10,7 @@ This plugin requires CyberPanel v1.7.3 or above.
 
 ```
 cd /usr/local/CyberCP/pluginInstaller
-wget https://github.com/usmannasir/beautiful_names/archive/master.zip
+wget https://cyberpanel.net/beautifulNames.zip
 python pluginInstaller.py install --pluginName beautifulNames
 ```
 
