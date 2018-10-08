@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cyberpanelPluginConfig>
+  <name>Beautiful Names</name>
+  <type>plugin</type>
+  <description>Beautiful names for Packages, Databases and FTP Accounts.</description>
+  <version>1.0</version>
+</cyberpanelPluginConfig>
